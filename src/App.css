@@ -11,3 +11,8 @@
 body {
   background-color: #fffff5;
 }
+
+.App-footer {
+  text-align: center;
+  margin: 30px 0;
+}
