@@ -14,7 +14,7 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
-            Coded by{" "}
+            <strong>Coded</strong> by{" "}
             <a href="https://www.shecodes.io/graduates/118933-karelle-bolon">
               Karelle Bolon
             </a>{" "}
@@ -22,7 +22,7 @@ export default function App() {
             <a href="https://github.com/karellemarina/my-dictionary-app">
               open sourced on GitHub
             </a>{" "}
-            and hosted in{" "}
+            and <strong>hosted</strong> in{" "}
             <a href="https://splendid-brioche-75cf88.netlify.app/"> Netlify</a>
           </small>
         </footer>
